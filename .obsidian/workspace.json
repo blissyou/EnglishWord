@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "333dd7a8f5c54075",
+        "id": "c3220200120fb211",
         "type": "tabs",
         "children": [
           {
-            "id": "625b0b04fe0ded70",
+            "id": "4737fca862f987fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How visualization helps you reach your goals- level 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "How visualization helps you reach your goals- level 3"
+              "title": "새 탭"
             }
           }
         ]
@@ -183,8 +179,9 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "625b0b04fe0ded70",
+  "active": "4737fca862f987fb",
   "lastOpenFiles": [
-    "How visualization helps you reach your goals- level 3.md"
+    "How visualization helps you reach your goals- level 3.md",
+    "Bad fans stop a big football game - level 3.md"
   ]
 }
