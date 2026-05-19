@@ -11,13 +11,32 @@
             "id": "4737fca862f987fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bad fans stop a big football game - level 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Bad fans stop a big football game - level 3"
+            }
+          },
+          {
+            "id": "0eb94e91e0601131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Eurovision changes rules - level 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Eurovision changes rules - level 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5
   },
   "right": {
     "id": "1c135a7e57818f65",
@@ -179,9 +198,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "4737fca862f987fb",
+  "active": "0eb94e91e0601131",
   "lastOpenFiles": [
-    "How visualization helps you reach your goals- level 3.md",
-    "Bad fans stop a big football game - level 3.md"
+    "Bad fans stop a big football game - level 3.md",
+    "The Eurovision changes rules - level 3.md",
+    "How visualization helps you reach your goals- level 3.md"
   ]
 }

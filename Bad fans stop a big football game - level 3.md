@@ -30,7 +30,8 @@ Slavia’s president, Jaroslav Tvrdik,/ apologized for the incident /and admitte
 
 league - 연맹
 hundreds - 백
-invaded - 침략하다
+invade - 침략하다
+invaded - 침략했다
 Although - 비록 ~이지만
 close - 가까운, 닫히다
 to ~ing - 거의 ~했다
